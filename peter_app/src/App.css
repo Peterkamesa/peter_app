@@ -3,6 +3,7 @@
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+  background-color: rgb(57, 19, 226);
 }
 
 .logo {
@@ -39,7 +40,7 @@
   color: #faf9f6;
   border-radius: 5px;
   border: solid 1px;
-  background-color: rgb(58, 52, 138);
+  background-color: rgb(8, 6, 36);
 }
 
 .read-the-docs {
